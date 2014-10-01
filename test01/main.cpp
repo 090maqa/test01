@@ -29,6 +29,7 @@ int main (void)
     }
     
     //combat_log.PrintDataTable();
+    printf("");
     
     return 0;
 }
