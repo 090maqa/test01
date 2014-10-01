@@ -29,7 +29,7 @@ int main (void)
     }
     
     //combat_log.PrintDataTable();
-    printf("");
+    printf("sub!!!!!!!!!!!");
     
     return 0;
 }
